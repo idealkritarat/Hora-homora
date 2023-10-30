@@ -1,0 +1,33 @@
+body {
+    font-family: 'Kanit', sans-serif;
+    background-color: rgb(17, 0, 36);
+    background-size: auto;
+    text-align: center;
+}
+.gui {
+    background-color:rgb(11, 0, 20);
+    border-radius: 15px;
+    width:100%;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h1 {
+    color: white;
+}
+p,h {
+    color: white;
+    
+}
+.btf {
+    width:10%;
+    opacity: 0.5;
+    display:inline-block;
+    margin:30px;
+}
+.btf:hover{
+    opacity: 1;
+    cursor: pointer;
+    
+}
